@@ -1,6 +1,8 @@
 File Watcher
 ============
 
+![file-watcher icon](http://dl.dropbox.com/u/2819285/file-watcher.png)
+
 Description
 -----------
 File Watcher is a shell script that monitors a given file.
